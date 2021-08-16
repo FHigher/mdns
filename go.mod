@@ -1,4 +1,4 @@
-module mdns
+module github.com/FHigher/mdns
 
 go 1.16
 
